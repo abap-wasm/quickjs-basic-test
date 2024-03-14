@@ -1,0 +1,2 @@
+# quickjs-basic-test
+test
