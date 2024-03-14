@@ -1,0 +1,16 @@
+{
+  "name": "quickjs-basic-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@jitl/quickjs-wasmfile-debug-sync": "^0.29.1",
+    "quickjs-emscripten-core": "^0.29.1"
+  }
+}
