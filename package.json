@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@jitl/quickjs-wasmfile-debug-sync": "^0.29.1",
+    "@jitl/quickjs-wasmfile-release-sync": "^0.29.1",
     "quickjs-emscripten-core": "^0.29.1"
   }
 }
