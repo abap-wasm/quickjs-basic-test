@@ -1,0 +1,4 @@
+
+> quickjs-basic-test@1.0.0 test
+> node src/index.mjs
+
